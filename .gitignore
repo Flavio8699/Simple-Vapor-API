@@ -1,4 +1,3 @@
 .build
 .DS_Store
 *.xcodeproj/
-*.sql linguist-detectable=false
